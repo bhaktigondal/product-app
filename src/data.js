@@ -1,5 +1,6 @@
 const cards = [
     {
+      id:"samsung-s24-001",
       productimage: "https://www.zdnet.com/a/img/2024/02/02/1bfa7d30-112c-4906-83a7-ce12551b7b16/galaxy-s24-ultra.jpg",
       title: "samsung-s24",
       price: "Price: ₹100000",
@@ -8,6 +9,7 @@ const cards = [
       features: ["Nightography", "Galaxy AI editing tools", "Gaming and performance taken to new heights!"]
     },
     {
+      id:"Dell -002",
       productimage: "https://images-cdn.ubuy.co.in/633b11ae9fd918253e664eb8-dell-xps-15-9570-fhd-laptop-pc-intel.jpgh",
       title: "Dell XPS 15",
       price: "Price: ₹120000",
@@ -16,6 +18,7 @@ const cards = [
       features: ["InfinityEdge Display", "Powerful Performance", "Long Battery Life"]
     },
     {
+      id:"Sony-003",
       productimage: "https://images-eu.ssl-images-amazon.com/images/I/510cs9VwjUL._AC_UL210_SR210,210_.jpg",
       title: "Sony WH-1000XM4",
       price: "Price: ₹30000",
@@ -24,6 +27,7 @@ const cards = [
       features: ["Adaptive Sound Control", "Speak-to-Chat", "Quick Attention Mode"]
     },
     {
+      id:"Appl-004",
       productimage: "https://darlingretail.com/cdn/shop/files/Apple_Watch_Series_9_GPS_45mm_Midnight_Aluminum_Midnight_Sport_Loop_34FR_Screen__USEN_b6b30074-f3c9-4dfb-b768-a6266af6d234_800x.jpg?v=1695791104",
       title: "Apple Watch Series 7",
       price: "Price: ₹50000",
@@ -32,6 +36,7 @@ const cards = [
       features: ["Fitness Tracking", "Sleep Monitoring", "Water Resistant"]
     },
     {
+      id:"iPad-005",
       productimage: "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc3/iPad-Pro-12-9-tablet-apple-m1-cellular.jpeg",
       title: "iPad Pro 12.9",
       price: "Price: ₹110000",
@@ -40,6 +45,7 @@ const cards = [
       features: ["ProMotion Technology", "Thunderbolt Port", "All-Day Battery Life"]
     },
     {
+      id:"Amazon-006",
       productimage: "https://m.media-amazon.com/images/G/31/kindle/journeys/eFu8CFvlYoIj2FKRtRoGVbg0fIKXUEyL3Ry8GNVsaMyM3D/ZjBmMzIwNTMt._CB404330536_.jpg",
       title: "Amazon Echo Dot (4th Gen)",
       price: "Price: ₹5000",
